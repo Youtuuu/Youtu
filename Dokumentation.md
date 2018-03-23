@@ -39,3 +39,6 @@ Am Schluss wird noch das HTML-File für die Website erstellt, in dieses index.ht
 *Schwierigkeiten*
 Ich hatte zu beginn einige Startschwierigkeiten, vagrant auf dem Mac laufen zu lassen. Zuerst habe ich es mit einem Separaten Git Bash client probiert, was allerdings nicht funktioniert hatte. Dann habe ich eine Erweiterung für den in MacOS integrierten Terminal gefunden mit welchem Vagrant problemlos funktionierte. 
 
+*Funktionen*
+Es wäre möglich, dass der Share nicht überall funktioniert. Bei Windows Maschinen habe ich ein Problem mit der Authentifizierung festgestellt. Auf einem Unix System sollte der Share aber Problemlost laufen.
+
