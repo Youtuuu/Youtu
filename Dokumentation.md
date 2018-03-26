@@ -65,3 +65,8 @@ Ich hatte zu beginn einige Startschwierigkeiten, vagrant auf dem Mac laufen zu l
 
 Es wäre möglich, dass der Share nicht überall funktioniert. Bei Windows Maschinen habe ich ein Problem mit der Authentifizierung festgestellt. Auf einem Unix System sollte der Share aber Problemlost laufen.
 
+## Lerndokumentation
+
+Ich habe zu diesem Thema ebenfalls eine kleine Lerndokumentation für meinen Betrieb geschrieben. In dieser habe ich die Grundlagen von Vagrant erwähnt und das Script Zeile für Zeile beschrieben. Die Dokumentation finden sie unter folgendem Link:https://drive.google.com/open?id=1R_s-GW89JtvACbfo9TUgKEQy62UlaRjO
+Das ganze in Markdown zu schreiben wäre ein bisschen viel Arbeit für mich gewesen.
+
